@@ -1,0 +1,16 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="04. Обробка повідомлень гостей" id="d1">
+    <mxGraphModel dx="1400" dy="900" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" value="04. Обробка повідомлень гостей — BPMN, «СтейНау», спринт 1" style="text;html=1;align=left;verticalAlign=middle;fontSize=18;fontStyle=1;" vertex="1" parent="1"><mxGeometry x="40" y="24" width="900" height="30" as="geometry"/></mxCell>
+        <mxCell id="pool2" value="Гість" style="swimlane;html=1;horizontal=0;startSize=30;collapsible=0;fontSize=14;fontStyle=1;swimlaneFillColor=none;" vertex="1" parent="1"><mxGeometry x="40" y="80" width="1600" height="180" as="geometry"/></mxCell>
+        <mxCell id="pool3" value="СтейНау" style="swimlane;html=1;horizontal=0;startSize=30;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontalStack=0;collapsible=0;fontSize=14;fontStyle=1;swimlaneFillColor=none;" vertex="1" parent="1"><mxGeometry x="40" y="300" width="1600" height="540" as="geometry"/></mxCell>
+        <mxCell id="lane4" value="Система" style="swimlane;html=1;horizontal=0;startSize=30;collapsible=0;fontSize=13;swimlaneFillColor=none;" vertex="1" parent="pool3"><mxGeometry x="30" y="0" width="1570" height="180" as="geometry"/></mxCell>
+        <mxCell id="lane5" value="Адміністратор готелю" style="swimlane;html=1;horizontal=0;startSize=30;collapsible=0;fontSize=13;swimlaneFillColor=none;" vertex="1" parent="pool3"><mxGeometry x="30" y="180" width="1570" height="180" as="geometry"/></mxCell>
+        <mxCell id="lane6" value="Менеджер" style="swimlane;html=1;horizontal=0;startSize=30;collapsible=0;fontSize=13;swimlaneFillColor=none;" vertex="1" parent="pool3"><mxGeometry x="30" y="360" width="1570" height="180" as="geometry"/></mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
