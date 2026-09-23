@@ -12,7 +12,7 @@
 | 1 | Валюх Артем  | ArtemValiukh | @artemvaliukh | презентації |
 | 2 | Вориняк Василь  | honest-honeypot | @ntc4ll | моделювання |
 | 3 | Журавський Владислав  | vladzh20 | @whydyoutagme | аналітика |
-| 4 | Оліневич Богдан  | alkawforever88 | @AlkawForever | Java |
+| 4 | Оліневич Богдан  | alkawforever88 | @AlkawForever | тексти |
 | 5 | Оніщук Максим | Makhimn | @allocd | тексти |
 
 ## 1.2. Графік ротації ролей
