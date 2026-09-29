@@ -3,7 +3,7 @@
 **Продукт:** П4 «СтейНау» · **Спринт:** 1 · **Дата:** 23.09.2026
 **Автори:** Керівник тестування, Тест-аналітик (таблиці елементів BPMN)
 
-> **Статус документа:** готово (очікує на побудову графічних моделей та внутрішнє рецензування).
+> **Статус документа:** готово.
 > Текстова частина заповнена Керівником тестування та Тест-аналітиком.
 
 ## Структура документа
@@ -62,7 +62,7 @@
 Для кожного процесу нижче наведено текстову таблицю елементів BPMN у форматі «крок — тип — опис».
 
 **Статус:** ✅ таблиці елементів підготовлені Тест-аналітиком  
-**Графічні BPMN-моделі:** ⏳ каркаси (пули й доріжки) створені Інженером з тестування; побудова моделей за таблицями триває.
+**Графічні BPMN-моделі:** ✅ каркаси (пули й доріжки) створені Інженером з тестування; Моделі побудовані.
 
 ---
 
@@ -304,5 +304,5 @@
 - **Таблиця розподілу задач:** [tasks.md](https://github.com/honest-honeypot/staynow/blob/main/docs/sprint1/tasks.md)
 - **Статут команди:** [charter.md](https://github.com/honest-honeypot/staynow/blob/main/docs/team/charter.md)
 - **Протокол ретроспективи:** [retro.md](https://github.com/honest-honeypot/staynow/blob/main/docs/sprint1/retro.md)
-- **Протокол рецензування:** [bpmn/review.md](https://github.com/honest-honeypot/staynow/blob/main/docs/sprint1/bpmn/review.md) — шаблон із чек-листом готовий, заповнюється на етапі рецензування.
-- **Акт аудиту:** [audit.md](https://github.com/honest-honeypot/staynow/blob/main/docs/sprint1/audit.md) — заповнюється на етапі фінального аудиту.
+- **Протокол рецензування:** [bpmn/review.md](https://github.com/honest-honeypot/staynow/blob/main/docs/sprint1/bpmn/review.md)
+- **Акт аудиту:** [audit.md](https://github.com/honest-honeypot/staynow/blob/main/docs/sprint1/audit.md)
