@@ -32,6 +32,16 @@
 | Протокол ретроспективи | [docs/sprint1/retro.md](docs/sprint1/retro.md) | Скрам-майстер |
 | Статут команди | [docs/team/charter.md](docs/team/charter.md) | уся команда |
 
+## Артефакти спринта 2
+
+| Артефакт | Файл | Відповідальний |
+|---|---|---|
+| Реєстр дефектів вимог | [docs/sprint2/requirements-defects.xlsx](docs/sprint2/requirements-defects.xlsx) | Тест-аналітик |
+| Виправлена специфікація SRS 1.1 з журналом змін | [docs/sprint2/SRS-1.1.md](docs/sprint2/SRS-1.1.md) | Тест-аналітик |
+| План тестування: рівні, типи, інструменти | [docs/sprint2/test-plan.md](docs/sprint2/test-plan.md) | Інженер з тестування |
+| Таблиця задач і розподіл розділів SRS | [docs/sprint2/task-board.md](docs/sprint2/task-board.md) | Скрам-майстер, Керівник тестування |
+| Протокол ретроспективи | [docs/sprint2/retro-sprint2.md](docs/sprint2/retro-sprint2.md) | Скрам-майстер |
+
 ## BPMN-моделі
 
 | № | Процес | Джерело | Експорт |
@@ -64,6 +74,13 @@ docs/
       review.md                протокол рецензування за чек-листом із 10 пунктів
       NN_*.drawio              вихідні файли моделей
       NN_*.pdf                 експорт для перегляду без редактора
+  sprint2/
+    README.md                  перелік артефактів спринта
+    requirements-defects.xlsx  реєстр дефектів вимог: аркуші «Реєстр», «Спірні», «Розподіл розділів»
+    SRS-1.1.md                 виправлена специфікація з журналом змін
+    test-plan.md               рівні й типи тестування, інструменти, обмеження
+    task-board.md              задачі спринта і розподіл розділів SRS між учасниками
+    retro-sprint2.md           ретроспектива Start / Stop / Continue
 ```
 
 Артефакти наступних спринтів додаються теками `docs/sprint2/` … `docs/sprint5/`;
