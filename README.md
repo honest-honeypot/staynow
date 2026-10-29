@@ -42,6 +42,23 @@
 | Таблиця задач і розподіл розділів SRS | [docs/sprint2/task-board.md](docs/sprint2/task-board.md) | Скрам-майстер, Керівник тестування |
 | Протокол ретроспективи | [docs/sprint2/retro-sprint2.md](docs/sprint2/retro-sprint2.md) | Скрам-майстер |
 
+## Артефакти спринта 3
+
+| Артефакт | Файл | Відповідальний |
+|---|---|---|
+| Тест-кейси, покриття вимог, протокол рецензування | [docs/sprint3/test-cases.xlsx](docs/sprint3/test-cases.xlsx) | Тест-аналітик |
+| Журнал виконання і середовище | [docs/sprint3/execution-log.xlsx](docs/sprint3/execution-log.xlsx) | Інженер з тестування |
+| Звіти про дефекти і вкладення | [docs/sprint3/bug-reports.md](docs/sprint3/bug-reports.md) | Інженер з тестування |
+| Акт аудитора-опонента | [docs/sprint3/audit.md](docs/sprint3/audit.md) | Аудитор-опонент |
+| Таблиця розподілу задач | [docs/sprint3/task-board.md](docs/sprint3/task-board.md) | Скрам-майстер |
+| Протокол ретроспективи | [docs/sprint3/retro.md](docs/sprint3/retro.md) | Скрам-майстер |
+| Зведення спринта: статистика і покриття | [docs/sprint3/README.md](docs/sprint3/README.md) | Керівник тестування |
+
+**Трекер дефектів:** GitHub Issues цього репозиторію.
+
+**Підсумок прогону Run 1:** 46 тест-кейсів — 30 passed, 10 failed, 6 blocked;
+11 звітів про дефекти п'яти рівнів severity.
+
 ## BPMN-моделі
 
 | № | Процес | Джерело | Експорт |
@@ -81,6 +98,15 @@ docs/
     test-plan.md               рівні й типи тестування, інструменти, обмеження
     task-board.md              задачі спринта і розподіл розділів SRS між учасниками
     retro-sprint2.md           ретроспектива Start / Stop / Continue
+  sprint3/
+    README.md                  зведення спринта: статистика, покриття, середовище
+    test-cases.xlsx            кейси, аркуші «Test cases», «Coverage», «Review»
+    execution-log.xlsx         журнал прогону, аркуші «Run 1», «Environment», «Summary»
+    bug-reports.md             звіти про дефекти, продубльовані в GitHub Issues
+    attachments/               знімки екрана до звітів, іменування за Bug ID
+    audit.md                   акт аудитора-опонента: відтворення дефектів і DoD
+    task-board.md              задачі спринта і розподіл вимог між учасниками
+    retro.md                   ретроспектива Start / Stop / Continue
 ```
 
 Артефакти наступних спринтів додаються теками `docs/sprint2/` … `docs/sprint5/`;
