@@ -19,7 +19,7 @@
 | Протокол ретроспективи | [retro.md](retro.md) | Скрам-майстер |
 
 **Трекер дефектів:** GitHub Issues репозиторію команди. Мітки `severity:*`, `priority:*`,
-`status:*`.
+`status:*`, `sprint:3`.
 
 ---
 
