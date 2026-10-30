@@ -54,9 +54,9 @@
 | Протокол ретроспективи | [docs/sprint3/retro.md](docs/sprint3/retro.md) | Скрам-майстер |
 | Зведення спринта: статистика і покриття | [docs/sprint3/README.md](docs/sprint3/README.md) | Керівник тестування |
 
-**Трекер дефектів:** GitHub Issues цього репозиторію.
+**Трекер дефектів:** [GitHub Issues цього репозиторію, мітка `sprint:3`](https://github.com/honest-honeypot/staynow/issues?q=is%3Aissue+label%3A%22sprint%3A3%22).
 
-**Підсумок прогону Run 1:** 46 тест-кейсів — 30 passed, 10 failed, 6 blocked;
+**Підсумок прогону Run 1:** 46 тест-кейсів — 30 passed, 11 failed, 5 blocked;
 11 звітів про дефекти п'яти рівнів severity.
 
 ## BPMN-моделі
