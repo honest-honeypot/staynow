@@ -52,7 +52,6 @@ class BookingValidatorTest {
                 "Має повертатися CHECK_OUT_NOT_AFTER_CHECK_IN, отримано: " + errors);
     }
 
-    // BUG-MODULE-01 (Issue #__: підставити номер після створення)
     @ParameterizedTest(name = "BL-10: кількість ночей={0}, допустимо={1}")
     @CsvSource({
             "1, true",
@@ -75,7 +74,6 @@ class BookingValidatorTest {
                 "Для " + nights + " ночей очікувалося valid=" + expectedValid + ", помилки: " + errors);
     }
 
-    // BUG-MODULE-02 (Issue #__: підставити номер після створення)
     @Test
     @DisplayName("BL-10: дата заїзду раніше today повертає CHECK_IN_IN_PAST навіть якщо виїзд у майбутньому")
     void checkInInPastWithFutureCheckOutReturnsError() {
