@@ -16,7 +16,7 @@
 | `AvailabilityTest.java` (BL-70) | Оліневич Богдан (`@alkawforever88`) | 3 | BL-70 | Передано на перехресне рев'ю колезі |
 | `PriceCalculatorTest.java` | Журавський Владислав (`@vladzh20`) | 3 | BL-30, BL-40, BL-50 | **Approved** (виправлено за зауваженнями) |
 | Клас граничних значень | Валюх Артем (`@ArtemValiukh`) | 0 | BL-10, BL-50, BL-60 | Очікується коміт |
-| UI WebDriver тести (`*UiTest.java`) | Оніщук Максим (`@Makhimn`) | 0 | F-10..F-85, GUI-70..85 | Очікується коміт |
+| UI WebDriver тести (`*UiTest.java`) | Оніщук Максим (`@Makhimn`) | 0 | F-10..F-85, GUI-70..85 | **Approved** |
 
 ---
 
