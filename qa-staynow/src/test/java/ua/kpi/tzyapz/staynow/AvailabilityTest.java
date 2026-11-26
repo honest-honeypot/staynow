@@ -56,7 +56,7 @@ class AvailabilityTest {
         assertFalse(available, "Номер має бути недоступним при перетині інтервалів дат");
     }
 
-    // BUG-02 (Issue #16)
+
     @Test
     @DisplayName("BL-70: номер доступний, якщо попередній гість виїжджає в день нового заїзду")
     void roomIsAvailableWhenPreviousCheckOutEqualsNewCheckIn() {
@@ -72,7 +72,7 @@ class AvailabilityTest {
     }
 
 
-    // BUG-MODULE-03 (Issue #__: підставити номер після створення)
+
     @ParameterizedTest(name = "BL-60: скасування за {0} днів -> плата 0.00")
     @ValueSource(ints = {7, 8, 30})
     void cancellationFeeFreeAtSevenOrMoreDays(int daysBeforeCheckIn) {
